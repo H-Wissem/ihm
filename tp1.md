@@ -1,4 +1,4 @@
-### le besoin utilisateur
+### Le besoin utilisateur
 
 Un besoin utilisateur est besoin exprmimé ou non par l'utilisateur. Ce besoin peut être fonctionnel ou non.
 
